@@ -27,4 +27,8 @@
 
 ## Topic Modeling
 
-**Toolkit:** 
+**Toolkit:** DistillBERT Embeddings+umap-learn+hdbscan+C-TF-IDF
+
+**Goal:**
+
+**Business Use Case:**
