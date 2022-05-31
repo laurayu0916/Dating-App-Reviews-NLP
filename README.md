@@ -1,4 +1,4 @@
-# DSO560 Project NLP in Dating App Reviews 
+# DSO560 Project: NLP in Dating App Reviews 
 
 ## Text Preprocessing
 
