@@ -11,7 +11,7 @@
 
 ## Regression Model
 
-**Toolkit:** TF-IDF+LightGBM, Word2Vec+Neural Network, DistillBERT, ALBERT
+**Toolkit:** TF-IDF + LightGBM, Word2Vec + Neural Network, DistillBERT, ALBERT
 
 **Goal:** Build a regression model to predict the reviewers' rating based on reviews they provided. 
 
@@ -19,7 +19,7 @@
 
 ## Classification Model
 
-**Toolkit:** Word2Vec+RandomForest, GloVe+RNN, GloVe+LSTM
+**Toolkit:** Word2Vec + RandomForest, GloVe+RNN, GloVe+LSTM
 
 **Goal:** Build a classification model to predict whether an App review will get more than 1 Thumbup. We assume those reviews with many Thumbups are the "key opinions" from users and deserve more attention from the publisher or developer of the Dating App.
 
